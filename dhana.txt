@@ -1,3 +1,5 @@
 jdsiof
 fsdf
 nsdkj
+i want to unstage a file in dhana.txt
+follow the fourth line
